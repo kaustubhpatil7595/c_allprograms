@@ -1,5 +1,6 @@
 #include <stdio.h> 
-int main() { 
+int main() 
+{ 
     float radius, area; 
     const float PI = 3.14159; 
     printf("Enter radius of circle: "); 
